@@ -1,0 +1,10 @@
+com\tccuninove\sindicohelper\model\Titulo.class
+com\tccuninove\sindicohelper\repository\filter\TituloFilter.class
+com\tccuninove\sindicohelper\repository\Titulos.class
+com\tccuninove\sindicohelper\SindicohelperApplication$MvcConfig.class
+com\tccuninove\sindicohelper\SindicohelperApplication.class
+com\tccuninove\sindicohelper\model\StatusTitulo.class
+com\tccuninove\sindicohelper\controller\IndexController.class
+com\tccuninove\sindicohelper\service\CadastroTituloService.class
+com\tccuninove\sindicohelper\ServletInitializer.class
+com\tccuninove\sindicohelper\controller\TituloController.class
